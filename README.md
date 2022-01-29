@@ -3,9 +3,4 @@
 Created using React
 
 ```
-Developer
----
-```
-Shumwe
-
 ```
